@@ -9,7 +9,6 @@ class Solution(object):
         """
 
         
-       # it doesn't run for all test case
 
         # while n>0 :
         #     if nums1[m-1] <= nums2[n-1]  :
